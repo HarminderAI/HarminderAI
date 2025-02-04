@@ -1,16 +1,21 @@
-## Hi there 👋
+# 🚀 Harminder | AI & Machine Learning Enthusiast  
 
-<!--
-**HarminderAI/HarminderAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Welcome to my GitHub!  
 
-Here are some ideas to get you started:
+I’m passionate about **Artificial Intelligence, Machine Learning, and MLOps**.  
+Currently, I’m working on **real-world AI projects, Kaggle competitions, and Open-Source AI contributions**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 **What I’m Learning & Working On:**  
+- 🤖 AI & Machine Learning  
+- 🔢 Deep Learning (TensorFlow & PyTorch)  
+- 🏆 Kaggle Competitions  
+- 📊 Data Science & Analysis  
+- 🚀 AI Model Deployment (MLOps)  
+
+🌱 **Learning in Public:** I share my progress, projects, and AI insights on:  
+🔗 [Twitter](https://x.com/HarminderAI)  
+🔗 [LinkedIn](https://www.linkedin.com/in/harminder-ai)  
+🔗 [Kaggle](https://www.kaggle.com/harminderai)  
+
+📫 **Let’s Connect & Collaborate on AI Projects!**  
+
